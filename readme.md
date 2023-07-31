@@ -1,6 +1,6 @@
 ## 主要用于记录自己的pprof学习
 
-**系统且详细的学习可见[here](https://github.com/wolfogre/go-pprof-practice)**
+**系统且详细的学习pprof可见[here](https://github.com/wolfogre/go-pprof-practice)**
 
 常用的几个shell命令
 
